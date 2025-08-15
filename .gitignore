@@ -1,0 +1,16 @@
+# Build outputs
+build/
+out/
+*.class
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# App output
+plans/
