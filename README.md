@@ -47,7 +47,8 @@ Add at least one screenshot of your terminal running the app to `media/screensho
 
 ![App Running](media/screenshot.png)
 
-(Optional) Add a short demo video to `media/demo.mp4` and link it here.
+[🎥 Watch Demo](media/demo.mp4)
+
 
 ## 📚 Wiki
 Draft pages live in `docs/wiki` for convenience; copy them into your repo's **Wiki tab** on GitHub.
